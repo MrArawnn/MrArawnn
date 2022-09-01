@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Berkay TOSUN
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently improving myself in Machine Learning, Deep Learning and Big Data!
 - 📫 How to reach me: brky.tsnn@gmail.com
 
 <!---

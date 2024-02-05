@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Berkay TOSUN
 - 👀 I’m Junior Data Scientist
-- 🌱 I’m currently improving myself in Machine Learning, Deep Learning and Big Data!
 - 📫 How to reach me: brky.tsnn@gmail.com
 
 <!---

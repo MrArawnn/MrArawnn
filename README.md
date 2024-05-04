@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Berkay TOSUN
-- 👀 I’m Junior Data Scientist
+- 👀 I’m Data Scientist
 - 📫 How to reach me: brky.tsnn@gmail.com
 
 <!---
